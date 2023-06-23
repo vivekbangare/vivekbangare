@@ -1,4 +1,4 @@
-### Hi there 👋
+# Vivek Bangare 👋
 
 <!--
 **vivekbangare/vivekbangare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter: vivek_bangare24](https://img.shields.io/twitter/follow/vivek_bangare24?style=social)](https://twitter.com/vivek_bangare24)
+![GitHub followers](https://img.shields.io/github/followers/vivekbangare?label=Follow&style=social)
+[![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-ghumare/)](https://www.linkedin.com/in/rohit-ghumare/) 
+
+
+## 🧐 About
+- 🤠 Senior DevOps Engineer 🥑 at [encora.com](https://www.encora.com/), Founder at 
+- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+- 😄 
+- 🌱 
+- 👯 And Many more...
