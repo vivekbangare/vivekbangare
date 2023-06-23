@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Twitter: vivek_bangare24](https://img.shields.io/twitter/follow/vivek_bangare24?style=social)](https://twitter.com/vivek_bangare24)
 ![GitHub followers](https://img.shields.io/github/followers/vivekbangare?label=Follow&style=social)
-[![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-ghumare/)](https://www.linkedin.com/in/rohit-ghumare/) 
+[![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbangare24/)](https://www.linkedin.com/in/vivekbangare24/) 
 
 
 ## 🧐 About
