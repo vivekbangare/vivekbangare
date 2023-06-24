@@ -10,6 +10,8 @@
 [![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vivek.bangare@gmail.com)](mailto:vivek.bangare@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logoColor=white&labelColor=black&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&labelColor=black)](whatsapp://send?phone=917218127175)
+
 
 
 
@@ -19,7 +21,7 @@
 
 Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six years of industry experience. Throughout my career, I have successfully implemented and optimized DevOps practices for various organizations and clients, driving efficiency and enhancing collaboration.
 
-- 🤠 Senior DevOps Engineer 🥑 at [encora.com](https://www.encora.com/), Founder at 
+- 🤠 Senior DevOps Engineer at [encora.com](https://www.encora.com/) 
 
 ### Key Skills
 
@@ -54,6 +56,7 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 - Informative blog posts
 - Useful resources and tutorials
 - Contact information for collaboration opportunities
+
 
 <h2>Github Stats 🐙🐱</h2>
 <p align='center'>
