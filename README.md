@@ -9,8 +9,7 @@
 [![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbangare24/)](https://www.linkedin.com/in/vivekbangare24/)
 [![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vivek.bangare@gmail.com)](mailto:vivek.bangare@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=social&labelColor=black&logo=Google-Chrome&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
-
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logoColor=white&labelColor=black&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
 
 
 
