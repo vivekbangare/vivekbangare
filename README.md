@@ -47,12 +47,12 @@ With a strong background in these technologies, I bring a wealth of expertise an
 | Skills                | Expertise          |
 |-----------------------|--------------------|
 | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Kubernets            | ![85%](https://progress-bar.dev/85) |
-| Ansible               | ![80%](https://progress-bar.dev/80) |
-| Terraform             | ![75%](https://progress-bar.dev/75) |
-| Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
-| DevOps                | ![80%](https://progress-bar.dev/80) |
-| Solution Architect    | ![70%](https://progress-bar.dev/70) |
-| CI/CD                 | ![85%](https://progress-bar.dev/85) |
+| <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Kubernetes" width="20" height="20"/> Ansible               | ![80%](https://progress-bar.dev/80) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/>Terraform             | ![75%](https://progress-bar.dev/75) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> DevOps                | ![80%](https://progress-bar.dev/80) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Solution Architect    | ![70%](https://progress-bar.dev/70) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> CI/CD                 | ![85%](https://progress-bar.dev/85) |
 
 
 ### Certifications and Education
