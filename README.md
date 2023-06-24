@@ -9,23 +9,9 @@
 [![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbangare24/)](https://www.linkedin.com/in/vivekbangare24/)
 [![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vivek.bangare@gmail.com)](mailto:vivek.bangare@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=social&labelColor=black&logo=Google-Chrome&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
 
 
-
-#### Connect with me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile){:target="_blank"}
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle){:target="_blank"}
-
-#### Explore specific sections of my website:
-- Portfolio: [www.your-website.com/portfolio](https://www.your-website.com/portfolio){:target="_blank"}
-- Blog: [www.your-website.com/blog](https://www.your-website.com/blog){:target="_blank"}
-
-
-#### Check out my website for:
-- Detailed project case studies
-- Informative blog posts
-- Useful resources and tutorials
-- Contact information for collaboration opportunities
 
 
 ## 🧐 About
@@ -53,3 +39,9 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 
 - AWS Certified Developer - Associate 🧾
 - Bachelor's Degree📚 in Computer Science, Shivaji University🧑‍🎓
+
+#### Check out my website for:
+- Detailed project case studies
+- Informative blog posts
+- Useful resources and tutorials
+- Contact information for collaboration opportunities
