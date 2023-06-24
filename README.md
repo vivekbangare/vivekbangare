@@ -46,7 +46,7 @@ With a strong background in these technologies, I bring a wealth of expertise an
 
 | Skills                | Expertise          |
 |-----------------------|--------------------|
-| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/>             | ![85%](https://progress-bar.dev/85) |
+| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Kubernets            | ![85%](https://progress-bar.dev/85) |
 | Ansible               | ![80%](https://progress-bar.dev/80) |
 | Terraform             | ![75%](https://progress-bar.dev/75) |
 | Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
