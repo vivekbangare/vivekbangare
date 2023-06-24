@@ -71,11 +71,6 @@ Laughter is always welcome😊❤
 <h2>Latest Instagram Posts 📷</h2>
 <p align='center'><a href="https://www.instagram.com/clouddevopstechie/"><img src="https://instagram-recent-posts.vercel.app/api?username=clouddevopstechie&count=5" width="350" alt="Instagram Recent Posts"></a></p>
 
-<!-- Instagram Widget Start -->
-<div class="snapwidget-rpf" data-widget-id="1036783"></div>
-<script>!function(s,n,ap){if(!s.getElementById(ap)){var a=s.createElement("script");a.id=ap,a.src="https://snapwidget.com/js/snapwidget-rpf.js",s.getElementsByTagName("head")[0].appendChild(a)}}(document,0,"snaprpf");</script>
-<!-- SnapWidget -->
-
 
 <h2>Github Stats 🐙🐱</h2>
 <p align='center'>
