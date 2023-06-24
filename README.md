@@ -81,3 +81,8 @@ Laughter is always welcome😊❤
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vivekbangare/count.svg" />
+</p>
