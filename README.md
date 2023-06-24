@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 
 <h2>Github Stats 🐙🐱</h2>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vivekbangare01&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vivekbangare&show_icons=true&count_private=true&theme=dark" width="350"></a>
 <!--   <img src="https://codestats-readme.vercel.app/api?username=ghumare64&show_icons&theme=nightowl" alt="ghumare64's code::stats stats">
  -->
 </p>
