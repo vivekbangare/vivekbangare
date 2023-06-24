@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 
 I am passionate about learning new languages on demand, Loves researching and implementing solutions for challenging architectural problems.
 
-- 🤠 Senior DevOps Engineer at [encora.com](https://www.encora.com/) | Creator/Founder of **[BasicTechno](https://www.basictechno.com/)**🌐
+- 🤠 Senior DevOps Engineer at [encora.com](https://www.encora.com/) | Creator/Founder of **[BasicTechno](https://www.basictechno.com/)** 🌐
 
 
 ### Key Skills
@@ -57,7 +57,7 @@ With a strong background in these technologies, I bring a wealth of expertise an
 - AWS Certified Developer - Associate 🧾
 - Bachelor's Degree📚 in Computer Science, Shivaji University🧑‍🎓
 
-#### Check out my website **[BasicTechno]**(https://www.basictechno.com/) 🌐 for: 
+#### Check out my website **[BasicTechno](https://www.basictechno.com/)** 🌐 for: 
 - Detailed project case studies
 - Informative blog posts
 - Useful resources and tutorials
