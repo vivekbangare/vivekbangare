@@ -43,14 +43,13 @@ With a strong background in these technologies, I bring a wealth of expertise an
 
 | Skills                | Expertise          |
 |-----------------------|--------------------|
-| Kubernetes            | <img src="https://progress-bar.dev/85" alt="85%" width="200"/> |
-| Ansible               | <img src="https://progress-bar.dev/80" alt="80%" width="200"/> |
-| Terraform             | <img src="https://progress-bar.dev/75" alt="75%" width="200"/> |
-| Cloud (AWS/GCP)       | <img src="https://progress-bar.dev/80" alt="80%" width="200"/> |
-| DevOps                | <img src="https://progress-bar.dev/80" alt="80%" width="200"/> |
-| Solution Architect    | <img src="https://progress-bar.dev/70" alt="70%" width="200"/> |
-| CI/CD                 | <img src="https://progress-bar.dev/85" alt="85%" width="200"/> |
-
+| Kubernetes            | ![85%](https://progress-bar.dev/85) |
+| Ansible               | ![80%](https://progress-bar.dev/80) |
+| Terraform             | ![75%](https://progress-bar.dev/75) |
+| Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
+| DevOps                | ![80%](https://progress-bar.dev/80) |
+| Solution Architect    | ![70%](https://progress-bar.dev/70) |
+| CI/CD                 | ![85%](https://progress-bar.dev/85) |
 
 
 ### Certifications and Education
