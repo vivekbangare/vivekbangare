@@ -12,6 +12,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logoColor=white&labelColor=black&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&labelColor=black)](https://wa.me/917218127175?text=Hello%20from%20your%20website!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&labelColor=black)](https://www.instagram.com/clouddevopstechie/)
+![visitors](https://vbr.wocr.tk/badge?page_id=vivekbangare.vivekbangare&color=00cf00)
 
 
 ## 🧐 About
