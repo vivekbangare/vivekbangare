@@ -57,7 +57,7 @@ With a strong background in these technologies, I bring a wealth of expertise an
 - AWS Certified Developer - Associate 🧾
 - Bachelor's Degree📚 in Computer Science, Shivaji University🧑‍🎓
 
-#### Check out my website **[BasicTechno](https://www.basictechno.com/)** 🌐 for: 
+#### Check out my website **[BasicTechno]**(https://www.basictechno.com/) 🌐 for: 
 - Detailed project case studies
 - Informative blog posts
 - Useful resources and tutorials
