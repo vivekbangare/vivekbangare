@@ -19,7 +19,7 @@
 
 Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six years of industry experience. Throughout my career, I have successfully implemented and optimized DevOps practices for various organizations and clients, driving efficiency and enhancing collaboration.
 
-- 🤠 Senior DevOps Engineer 🥑 at [encora.com](https://www.encora.com/){:target="_blank"}, Founder at 
+- 🤠 Senior DevOps Engineer 🥑 at [encora.com](https://www.encora.com/), Founder at 
 
 ### Key Skills
 
