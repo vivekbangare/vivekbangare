@@ -55,7 +55,7 @@ With a strong background in these technologies, I bring a wealth of expertise an
 - AWS Certified Developer - Associate 🧾
 - Bachelor's Degree📚 in Computer Science, Shivaji University🧑‍🎓
 
-#### Check out my website for: **[BasicTechno](https://www.basictechno.com/)**🌐
+#### Check out my website **[BasicTechno](https://www.basictechno.com/)**🌐 for: 
 - Detailed project case studies
 - Informative blog posts
 - Useful resources and tutorials
@@ -67,9 +67,6 @@ The mission of my blogs/profile is to encourage people who are interested in tec
 Hope it will help myself and my audience by exposure to a variety of ideas, experiences, and real-life stories.
 
 Laughter is always welcome😊❤
-
-<h2>Latest Instagram Posts 📷</h2>
-<p align='center'><a href="https://www.instagram.com/clouddevopstechie/"><img src="https://instagram-recent-posts.vercel.app/api?username=clouddevopstechie&count=5" width="350" alt="Instagram Recent Posts"></a></p>
 
 
 <h2>Github Stats 🐙🐱</h2>
