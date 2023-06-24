@@ -68,6 +68,10 @@ Hope it will help myself and my audience by exposure to a variety of ideas, expe
 
 Laughter is always welcome😊❤
 
+<h2>Latest Instagram Posts 📷</h2>
+<p align='center'><a href="https://www.instagram.com/clouddevopstechie/"><img src="https://instagram-recent-posts.vercel.app/api?username=clouddevopstechie&count=5" width="350" alt="Instagram Recent Posts"></a></p>
+
+
 <h2>Github Stats 🐙🐱</h2>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vivekbangare&show_icons=true&count_private=true&theme=dark" width="350"></a>
