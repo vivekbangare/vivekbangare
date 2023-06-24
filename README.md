@@ -49,10 +49,11 @@ With a strong background in these technologies, I bring a wealth of expertise an
 | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Kubernets            | ![85%](https://progress-bar.dev/85) |
 | <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Kubernetes" width="20" height="20"/> Ansible               | ![80%](https://progress-bar.dev/80) |
 | <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Kubernetes" width="20" height="20"/>Terraform             | ![75%](https://progress-bar.dev/75) |
-| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="20" height="20"/> Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
-| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> DevOps                | ![80%](https://progress-bar.dev/80) |
-| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> Solution Architect    | ![70%](https://progress-bar.dev/70) |
-| <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="20" height="20"/> CI/CD                 | ![85%](https://progress-bar.dev/85) |
+| <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="aws" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/> Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
+| <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="20" height="20"/> Docker                | ![80%](https://progress-bar.dev/65) |
+|  DevOps                | ![80%](https://progress-bar.dev/80) |
+|  Solution Architect    | ![70%](https://progress-bar.dev/70) |
+|  CI/CD                 | ![85%](https://progress-bar.dev/85) |
 
 
 ### Certifications and Education
