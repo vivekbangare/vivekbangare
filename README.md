@@ -10,7 +10,8 @@
 [![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vivek.bangare@gmail.com)](mailto:vivek.bangare@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logoColor=white&labelColor=black&link=https://vivekbangare.github.io/vivekbangare/)](https://vivekbangare.github.io/vivekbangare/)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&labelColor=black)](whatsapp://send?phone=917218127175)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&labelColor=black)](https://wa.me/917218127175?text=Hello%20from%20your%20website!)
+
 
 
 
