@@ -27,15 +27,17 @@ I am passionate about learning new languages on demand, Loves researching and im
 
 ### Key Skills
 
-- Continuous Integration and Deployment (CI/CD) with Jenkins and GitLab CI/CD
-- Configuration Management using Ansible.
-- Experienced in implementing and managing Service Mesh solutions.
-- Containerization and Orchestration with Docker and Kubernetes
-- Experienced in configuring and managing Ingress Controllers for efficient traffic routing and load balancing.
-- Infrastructure as Code (IaC) using Terraform and CloudFormation
-- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform
-- Monitoring and Logging with EFK Stack, Prometheus, and Grafana
-- Scripting and Automation: Bash, Python, and Go
+- Proficient in Continuous Integration and Deployment (CI/CD) utilizing Jenkins and GitLab CI/CD.
+- Extensive knowledge of Configuration Management using Ansible.
+- Demonstrated experience in implementing and managing Service Mesh solutions.
+- Skilled in Containerization and Orchestration using Docker and Kubernetes.
+- Well-versed in configuring and managing Ingress Controllers for efficient traffic routing and load balancing.
+- Adept at Infrastructure as Code (IaC) using Terraform and CloudFormation.
+- Familiarity with Cloud Platforms, specifically Amazon Web Services (AWS) and Google Cloud Platform.
+- Proficient in Monitoring and Logging with EFK Stack, Prometheus, and Grafana.
+- Experienced in Scripting and Automation using Bash, Python, and Go.
+
+With a strong background in these technologies, I bring a wealth of expertise and practical knowledge to effectively tackle complex engineering challenges and drive successful outcomes.
 
 ### 🙇🏻 Skills Expertise
 
@@ -53,7 +55,7 @@ I am passionate about learning new languages on demand, Loves researching and im
 - AWS Certified Developer - Associate 🧾
 - Bachelor's Degree📚 in Computer Science, Shivaji University🧑‍🎓
 
-#### Check out my website for:
+#### Check out my website for: **[BasicTechno](https://www.basictechno.com/)**🌐
 - Detailed project case studies
 - Informative blog posts
 - Useful resources and tutorials
