@@ -41,13 +41,15 @@ With a strong background in these technologies, I bring a wealth of expertise an
 
 ### 🙇🏻 Skills Expertise
 
-| Skills               | Experience       | Rating       |
-|----------------------|------------------|------------- |
-| Docker               | 5                | ⭐⭐⭐        |
-| Kubernetes           | 5                | ⭐⭐⭐⭐      |
-| Ansible              | 4                | ⭐⭐⭐⭐      |
-| CI/CD                | 5                | ⭐⭐⭐⭐      |
-| Scripting            | 6                | ⭐⭐⭐⭐      |
+| Skills                | Expertise          |
+|-----------------------|--------------------|
+| Kubernetes            | ![85%](https://progress-bar.dev/85) |
+| Ansible               | ![80%](https://progress-bar.dev/80) |
+| Terraform             | ![75%](https://progress-bar.dev/75) |
+| Cloud (AWS/GCP)       | ![80%](https://progress-bar.dev/80) |
+| DevOps                | ![80%](https://progress-bar.dev/80) |
+| Solution Architect    | ![70%](https://progress-bar.dev/70) |
+| CI/CD                 | ![85%](https://progress-bar.dev/85) |
 
 
 ### Certifications and Education
