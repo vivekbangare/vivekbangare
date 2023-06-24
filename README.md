@@ -4,12 +4,13 @@
 **vivekbangare/vivekbangare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Twitter: vivek_bangare24](https://img.shields.io/twitter/follow/vivek_bangare24?style=social)](https://twitter.com/vivek_bangare24){:target="_blank"}
+[![Twitter: vivek_bangare24](https://img.shields.io/twitter/follow/vivek_bangare24?style=social)](https://twitter.com/vivek_bangare24)
 ![GitHub followers](https://img.shields.io/github/followers/vivekbangare?label=Follow&style=social)
-[![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbangare24/)](https://www.linkedin.com/in/vivekbangare24/){:target="_blank"}
-[www.basictechno.com](https://basictechno.com){:target="_blank"}
-[![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com){:target="_blank"}
-[Copy Email](javascript:void(prompt('', 'vivek.bangare@gmail.com')))]
+[![Linkedin: vivek](https://img.shields.io/badge/-vivekbangare24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbangare24/)](https://www.linkedin.com/in/vivekbangare24/)
+[![Personal Website](https://img.shields.io/badge/Visit%20my-Personal%20Website-blue)](https://basictechno.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vivek.bangare@gmail.com)](mailto:vivek.bangare@gmail.com)
+
+
 
 #### Connect with me:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile){:target="_blank"}
