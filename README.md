@@ -33,6 +33,16 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 - Monitoring and Logging with EFK Stack, Prometheus, and Grafana
 - Scripting and Automation: Bash, Python, and Go
 
+# 🙇🏻 Skills Expertise
+
+| Skills               | Experience       | Rating       |
+|----------------------|------------------|------------- |
+| Docker               | 5                | ⭐⭐⭐        |
+| Kubernetes           | 5                | ⭐⭐⭐⭐      |
+| Ansible              | 4                | ⭐⭐⭐⭐      |
+| CI/CD                | 5                | ⭐⭐⭐⭐      |
+| Scripting            | 6                | ⭐⭐⭐⭐      |
+
 
 ### Certifications and Education
 
@@ -44,3 +54,10 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 - Informative blog posts
 - Useful resources and tutorials
 - Contact information for collaboration opportunities
+
+<h2>Github Stats 🐙🐱</h2>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vivekbangare01&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<!--   <img src="https://codestats-readme.vercel.app/api?username=ghumare64&show_icons&theme=nightowl" alt="ghumare64's code::stats stats">
+ -->
+</p>
