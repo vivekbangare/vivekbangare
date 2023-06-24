@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six year
 
 I am passionate about learning new languages on demand, Loves researching and implementing solutions for challenging architectural problems.
 
-- 🤠 Senior DevOps Engineer at [encora.com](https://www.encora.com/) | Creator/Founder of **[BasicTechno](https://www.basictechno.com/)**
+- 🤠 Senior DevOps Engineer at [encora.com](https://www.encora.com/) | Creator/Founder of **[BasicTechno](https://www.basictechno.com/)**🌐
 
 
 ### Key Skills
@@ -60,7 +60,8 @@ I am passionate about learning new languages on demand, Loves researching and im
 - Contact information for collaboration opportunities
 
 ### My Mission!! 🤔
-The mission of my blogs/profile is to encourage people who are interested in technical creativities, along with that spread awareness of technologies specially in DevSecOps Culture and Deliver what the audience needs for the intended purpose, in the language that they understand, anywhere, anytime, anyhow! 
+The mission of my blogs/profile is to encourage people who are interested in technical creativities, along with that spread awareness of technologies specially in DevSecOps Culture and Deliver what the audience needs for the intended purpose, in the language that they understand, anywhere, anytime, anyhow!  
+
 Hope it will help myself and my audience by exposure to a variety of ideas, experiences, and real-life stories.
 
 Laughter is always welcome😊❤
