@@ -19,9 +19,9 @@
 
 ## 🧐 About
 
-## DevOps Professional with 6+ Years of Experience
+## DevOps Professional with 7+ Years of Experience
 
-Welcome to my GitHub profile! I am a seasoned DevOps engineer with over six years of industry experience. Throughout my career, I have successfully implemented and optimized DevOps practices for various organizations and clients, driving efficiency and enhancing collaboration.
+Welcome to my GitHub profile! I am a seasoned DevOps engineer with over seven years of industry experience. Throughout my career, I have successfully implemented and optimized DevOps practices for various organizations and clients, driving efficiency and enhancing collaboration.
 
 I am passionate about learning new languages on demand, Loves researching and implementing solutions for challenging architectural problems.
 
